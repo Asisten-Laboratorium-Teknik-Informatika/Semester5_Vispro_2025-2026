@@ -1,0 +1,6 @@
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Release\Aplikasi Penjualan.vbproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Release\Aplikasi_Penjualan.Form_Menu.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Release\Aplikasi_Penjualan.Resources.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Release\Aplikasi_Penjualan.SplashScreen.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Release\Aplikasi Penjualan.vbproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Release\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache

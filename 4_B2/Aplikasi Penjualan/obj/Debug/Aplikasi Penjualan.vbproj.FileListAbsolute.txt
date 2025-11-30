@@ -1,0 +1,22 @@
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Penjualan.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Piutang.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Login.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Piutang.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.SplashScreen.resources
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+C:\Users\MSI\source\repos\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe.config
