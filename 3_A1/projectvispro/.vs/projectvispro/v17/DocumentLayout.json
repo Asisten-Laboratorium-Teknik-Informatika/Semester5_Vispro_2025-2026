@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|c:\\users\\acer\\onedrive\\desktop\\project lab vispro\\projectvispro\\projectvispro\\uc_usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|solutionrelative:projectvispro\\uc_usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|c:\\users\\acer\\onedrive\\desktop\\project lab vispro\\projectvispro\\projectvispro\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|solutionrelative:projectvispro\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|c:\\users\\acer\\onedrive\\desktop\\project lab vispro\\projectvispro\\projectvispro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|solutionrelative:projectvispro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|c:\\users\\acer\\onedrive\\desktop\\project lab vispro\\projectvispro\\projectvispro\\uc_kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|solutionrelative:projectvispro\\uc_kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|c:\\users\\acer\\onedrive\\desktop\\project lab vispro\\projectvispro\\projectvispro\\uc_supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|solutionrelative:projectvispro\\uc_supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|c:\\users\\acer\\onedrive\\desktop\\project lab vispro\\projectvispro\\projectvispro\\uc_inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|solutionrelative:projectvispro\\uc_inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|solutionrelative:projectvispro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\uc_penjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|solutionrelative:projectvispro\\uc_penjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\uc_inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|solutionrelative:projectvispro\\uc_inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A170678-B5FB-4F47-BD3F-4A4101189AB4}|projectvispro\\projectvispro.csproj|solutionrelative:projectvispro\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_UserManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\UC_UserManagement.cs",
+              "RelativeDocumentMoniker": "projectvispro\\UC_UserManagement.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\UC_UserManagement.cs [Design]",
+              "RelativeToolTip": "projectvispro\\UC_UserManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:01:36.558Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\FormRegister.cs",
+              "RelativeDocumentMoniker": "projectvispro\\FormRegister.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\FormRegister.cs [Design]",
+              "RelativeToolTip": "projectvispro\\FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:01:27.651Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\Form1.cs",
+              "RelativeDocumentMoniker": "projectvispro\\Form1.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\Form1.cs [Design]",
+              "RelativeToolTip": "projectvispro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:01:25.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_Kategori.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\UC_Kategori.cs",
+              "RelativeDocumentMoniker": "projectvispro\\UC_Kategori.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\UC_Kategori.cs [Design]",
+              "RelativeToolTip": "projectvispro\\UC_Kategori.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:01:02.843Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_Supplier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\UC_Supplier.cs",
+              "RelativeDocumentMoniker": "projectvispro\\UC_Supplier.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\UC_Supplier.cs [Design]",
+              "RelativeToolTip": "projectvispro\\UC_Supplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:00:34.071Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_Penjualan.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\UC_Penjualan.cs",
+              "RelativeDocumentMoniker": "projectvispro\\UC_Penjualan.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\UC_Penjualan.cs",
+              "RelativeToolTip": "projectvispro\\UC_Penjualan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:37:45.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\Program.cs",
+              "RelativeDocumentMoniker": "projectvispro\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\Program.cs",
+              "RelativeToolTip": "projectvispro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:29:13.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_Inventory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\UC_Inventory.cs",
+              "RelativeDocumentMoniker": "projectvispro\\UC_Inventory.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\UC_Inventory.cs [Design]",
+              "RelativeToolTip": "projectvispro\\UC_Inventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:23:14.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\UC_Inventory.cs",
+              "RelativeDocumentMoniker": "projectvispro\\UC_Inventory.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\UC_Inventory.cs",
+              "RelativeToolTip": "projectvispro\\UC_Inventory.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAUwAQBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:49:12.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\Dashboard.cs",
+              "RelativeDocumentMoniker": "projectvispro\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Project Lab VISPRO\\projectvispro\\projectvispro\\Dashboard.cs [Design]",
+              "RelativeToolTip": "projectvispro\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T21:45:04.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
