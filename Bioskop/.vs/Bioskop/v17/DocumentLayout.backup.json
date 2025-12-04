@@ -1,0 +1,656 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjekBioskop\\Bioskop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\doctordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\doctordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\detailspider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\detailspider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\doctortrailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\doctortrailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\showfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\showfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|d:\\projekbioskop\\bioskop\\bioskop\\bookingtiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\bookingtiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\bookingtiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\bookingtiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\bookingtiket.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\bookingtiket.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\spidertrailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\spidertrailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\spidertrailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\spidertrailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\detailnun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\detailnun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\thenuntrailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\thenuntrailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\thenuniidetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\thenuniidetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\showfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\showfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\detailspider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\detailspider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\thenuntrailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\thenuntrailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\lblgender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\lblgender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\doctortrailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\doctortrailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\spidertrailer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\spidertrailer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\doctortrailer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\doctortrailer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\spidertrailer.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\spidertrailer.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\doctordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\doctordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\thenuniidetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\thenuniidetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\showfilm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\showfilm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\thenuntrailer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\thenuntrailer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\bookingtiket.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\bookingtiket.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\doctordetail.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\doctordetail.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\doctordetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\doctordetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\showfilm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\showfilm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|D:\\ProjekBioskop\\Bioskop\\bioskop\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{214B0619-F94A-4F31-B9BE-05D5B09807B6}|Bioskop\\Bioskop.csproj|solutionrelative:bioskop\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowFilm.cs [Design]",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\ShowFilm.cs",
+              "RelativeDocumentMoniker": "Bioskop\\ShowFilm.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\ShowFilm.cs [Design]",
+              "RelativeToolTip": "Bioskop\\ShowFilm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:13:46.376Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Register.cs",
+              "RelativeDocumentMoniker": "Bioskop\\Register.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Register.cs [Design]",
+              "RelativeToolTip": "Bioskop\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:02:32.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingTiket.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\BookingTiket.cs",
+              "RelativeDocumentMoniker": "Bioskop\\BookingTiket.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\BookingTiket.cs",
+              "RelativeToolTip": "Bioskop\\BookingTiket.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAcwAcBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:28:32.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorDetail.cs [Design]",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorDetail.cs",
+              "RelativeDocumentMoniker": "Bioskop\\DoctorDetail.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorDetail.cs [Design]",
+              "RelativeToolTip": "Bioskop\\DoctorDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:59:03.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingTiket.cs [Design]",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\BookingTiket.cs",
+              "RelativeDocumentMoniker": "Bioskop\\BookingTiket.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\BookingTiket.cs [Design]",
+              "RelativeToolTip": "Bioskop\\BookingTiket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:24:58.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Register.cs",
+              "RelativeDocumentMoniker": "Bioskop\\Register.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Register.cs",
+              "RelativeToolTip": "Bioskop\\Register.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:11:39.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorTrailer.cs [Design]",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorTrailer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\DoctorTrailer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorTrailer.cs [Design]",
+              "RelativeToolTip": "Bioskop\\DoctorTrailer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T09:13:02.997Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Login.cs",
+              "RelativeDocumentMoniker": "Bioskop\\Login.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Login.cs [Design]",
+              "RelativeToolTip": "Bioskop\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:57:47.975Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailSpider.cs [Design]",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DetailSpider.cs",
+              "RelativeDocumentMoniker": "Bioskop\\DetailSpider.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DetailSpider.cs [Design]",
+              "RelativeToolTip": "Bioskop\\DetailSpider.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:50:50.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingTiket.Designer.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\BookingTiket.Designer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\BookingTiket.Designer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\BookingTiket.Designer.cs",
+              "RelativeToolTip": "Bioskop\\BookingTiket.Designer.cs",
+              "ViewState": "AgIAACcBAAAAAAAAAAD4vz4BAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:13:34.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\packages.config",
+              "RelativeDocumentMoniker": "Bioskop\\packages.config",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\packages.config",
+              "RelativeToolTip": "Bioskop\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-18T13:53:52.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpiderTrailer.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\SpiderTrailer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\SpiderTrailer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\SpiderTrailer.cs",
+              "RelativeToolTip": "Bioskop\\SpiderTrailer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:03:36.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetailNun.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DetailNun.cs",
+              "RelativeDocumentMoniker": "Bioskop\\DetailNun.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DetailNun.cs",
+              "RelativeToolTip": "Bioskop\\DetailNun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:52:39.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpiderTrailer.cs [Design]",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\SpiderTrailer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\SpiderTrailer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\SpiderTrailer.cs [Design]",
+              "RelativeToolTip": "Bioskop\\SpiderTrailer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:02:16.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TheNunTrailer.cs [Design]",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\TheNunTrailer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\TheNunTrailer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\TheNunTrailer.cs [Design]",
+              "RelativeToolTip": "Bioskop\\TheNunTrailer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:41:37.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TheNunIIDetail.cs [Design]",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\TheNunIIDetail.cs",
+              "RelativeDocumentMoniker": "Bioskop\\TheNunIIDetail.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\TheNunIIDetail.cs [Design]",
+              "RelativeToolTip": "Bioskop\\TheNunIIDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:48:25.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Program.cs",
+              "RelativeDocumentMoniker": "Bioskop\\Program.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Program.cs",
+              "RelativeToolTip": "Bioskop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:08:51.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShowFilm.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\ShowFilm.cs",
+              "RelativeDocumentMoniker": "Bioskop\\ShowFilm.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\ShowFilm.cs",
+              "RelativeToolTip": "Bioskop\\ShowFilm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:45:58.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetailSpider.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DetailSpider.cs",
+              "RelativeDocumentMoniker": "Bioskop\\DetailSpider.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DetailSpider.cs",
+              "RelativeToolTip": "Bioskop\\DetailSpider.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:03:40.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\App.config",
+              "RelativeDocumentMoniker": "Bioskop\\App.config",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\App.config",
+              "RelativeToolTip": "Bioskop\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-14T14:06:38.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TheNunTrailer.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\TheNunTrailer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\TheNunTrailer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\TheNunTrailer.cs",
+              "RelativeToolTip": "Bioskop\\TheNunTrailer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:45:10.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "lblGender.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\lblGender.cs",
+              "RelativeDocumentMoniker": "Bioskop\\lblGender.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\lblGender.cs",
+              "RelativeToolTip": "Bioskop\\lblGender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:36:59.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DoctorTrailer.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorTrailer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\DoctorTrailer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorTrailer.cs",
+              "RelativeToolTip": "Bioskop\\DoctorTrailer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T09:14:16.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SpiderTrailer.Designer.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\SpiderTrailer.Designer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\SpiderTrailer.Designer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\SpiderTrailer.Designer.cs",
+              "RelativeToolTip": "Bioskop\\SpiderTrailer.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewC8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:06:23.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DoctorTrailer.Designer.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorTrailer.Designer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\DoctorTrailer.Designer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorTrailer.Designer.cs",
+              "RelativeToolTip": "Bioskop\\DoctorTrailer.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewDUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:15:39.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SpiderTrailer.resx",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\SpiderTrailer.resx",
+              "RelativeDocumentMoniker": "Bioskop\\SpiderTrailer.resx",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\SpiderTrailer.resx",
+              "RelativeToolTip": "Bioskop\\SpiderTrailer.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-24T06:06:38.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Koneksi.cs",
+              "RelativeDocumentMoniker": "Bioskop\\Koneksi.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Koneksi.cs",
+              "RelativeToolTip": "Bioskop\\Koneksi.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:39:47.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DoctorDetail.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorDetail.cs",
+              "RelativeDocumentMoniker": "Bioskop\\DoctorDetail.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorDetail.cs",
+              "RelativeToolTip": "Bioskop\\DoctorDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T09:06:04.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Login.cs",
+              "RelativeDocumentMoniker": "Bioskop\\Login.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Login.cs",
+              "RelativeToolTip": "Bioskop\\Login.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwGIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:05:45.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TheNunIIDetail.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\TheNunIIDetail.cs",
+              "RelativeDocumentMoniker": "Bioskop\\TheNunIIDetail.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\TheNunIIDetail.cs",
+              "RelativeToolTip": "Bioskop\\TheNunIIDetail.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:56:22.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ShowFilm.Designer.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\ShowFilm.Designer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\ShowFilm.Designer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\ShowFilm.Designer.cs",
+              "RelativeToolTip": "Bioskop\\ShowFilm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:55:09.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TheNunTrailer.Designer.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\TheNunTrailer.Designer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\TheNunTrailer.Designer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\TheNunTrailer.Designer.cs",
+              "RelativeToolTip": "Bioskop\\TheNunTrailer.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:29:48.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BookingTiket.resx",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\BookingTiket.resx",
+              "RelativeDocumentMoniker": "Bioskop\\BookingTiket.resx",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\BookingTiket.resx",
+              "RelativeToolTip": "Bioskop\\BookingTiket.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-18T08:13:29.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\Register.Designer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Register.Designer.cs",
+              "RelativeToolTip": "Bioskop\\Register.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAowHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:47:38.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\Login.Designer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Login.Designer.cs",
+              "RelativeToolTip": "Bioskop\\Login.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAEwD0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:06:35.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DoctorDetail.resx",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorDetail.resx",
+              "RelativeDocumentMoniker": "Bioskop\\DoctorDetail.resx",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorDetail.resx",
+              "RelativeToolTip": "Bioskop\\DoctorDetail.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-16T19:08:20.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DoctorDetail.Designer.cs",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorDetail.Designer.cs",
+              "RelativeDocumentMoniker": "Bioskop\\DoctorDetail.Designer.cs",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\DoctorDetail.Designer.cs",
+              "RelativeToolTip": "Bioskop\\DoctorDetail.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:08:24.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShowFilm.resx",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\ShowFilm.resx",
+              "RelativeDocumentMoniker": "Bioskop\\ShowFilm.resx",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\ShowFilm.resx",
+              "RelativeToolTip": "Bioskop\\ShowFilm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T16:55:10.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Login.resx",
+              "DocumentMoniker": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Login.resx",
+              "RelativeDocumentMoniker": "Bioskop\\Login.resx",
+              "ToolTip": "D:\\ProjekBioskop\\Bioskop\\Bioskop\\Login.resx",
+              "RelativeToolTip": "Bioskop\\Login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T16:06:37.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
