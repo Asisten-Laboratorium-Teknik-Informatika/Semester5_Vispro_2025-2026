@@ -1,0 +1,166 @@
+2025-12-04 02:58:50 | SafeGetSettingString:NamaToko | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at PawLodge.UC_Settings.SafeGetSettingString(String key) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 346
+2025-12-04 02:58:50 | SafeGetSettingString:TemaWarna | SettingsPropertyNotFoundException | The settings property 'TemaWarna' was not found.
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at PawLodge.UC_Settings.SafeGetSettingString(String key) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 346
+2025-12-04 02:58:50 | SafeGetSettingColor:WarnaBackground | SettingsPropertyNotFoundException | The settings property 'WarnaBackground' was not found.
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at PawLodge.UC_Settings.SafeGetSettingColor(String key, Color fallback) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 360
+2025-12-04 02:58:57 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 02:58:57 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 02:58:58 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 02:58:58 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 02:58:58 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 02:58:58 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 02:58:58 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 02:58:58 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 02:59:02 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 02:59:02 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 02:59:04 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 02:59:04 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 02:59:09 | btnTerapkanTema_Click | SettingsPropertyNotFoundException | The settings property 'TemaWarna' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.btnTerapkanTema_Click(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 201
+2025-12-04 02:59:42 | btnTerapkanTema_Click | SettingsPropertyNotFoundException | The settings property 'TemaWarna' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.btnTerapkanTema_Click(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 201
+2025-12-04 03:00:13 | SafeGetSettingString:NamaToko | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at PawLodge.UC_Settings.SafeGetSettingString(String key) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 346
+2025-12-04 03:00:13 | SafeGetSettingString:TemaWarna | SettingsPropertyNotFoundException | The settings property 'TemaWarna' was not found.
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at PawLodge.UC_Settings.SafeGetSettingString(String key) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 346
+2025-12-04 03:00:13 | SafeGetSettingColor:WarnaBackground | SettingsPropertyNotFoundException | The settings property 'WarnaBackground' was not found.
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at PawLodge.UC_Settings.SafeGetSettingColor(String key, Color fallback) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 360
+2025-12-04 03:00:43 | SafeGetSettingString:EncryptedPassword | SettingsPropertyNotFoundException | The settings property 'EncryptedPassword' was not found.
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at PawLodge.UC_Settings.SafeGetSettingString(String key) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 346
+2025-12-04 03:00:43 | btnUbahPassword_Click | SettingsPropertyNotFoundException | The settings property 'EncryptedPassword' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.btnUbahPassword_Click(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 277
+2025-12-04 03:10:43 | SafeGetSettingString:NamaToko | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at PawLodge.UC_Settings.SafeGetSettingString(String key) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 333
+2025-12-04 03:10:47 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 03:10:47 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 03:10:47 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 03:10:47 | txtNamaToko_TextChanged | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.txtNamaToko_TextChanged(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 152
+2025-12-04 03:11:13 | SafeGetSettingString:EncryptedPassword | SettingsPropertyNotFoundException | The settings property 'EncryptedPassword' was not found.
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at PawLodge.UC_Settings.SafeGetSettingString(String key) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 333
+2025-12-04 03:11:13 | btnUbahPassword_Click | SettingsPropertyNotFoundException | The settings property 'EncryptedPassword' was not found.
+   at System.Configuration.SettingsBase.SetPropertyValueByName(String propertyName, Object propertyValue)
+   at System.Configuration.SettingsBase.set_Item(String propertyName, Object value)
+   at System.Configuration.ApplicationSettingsBase.set_Item(String propertyName, Object value)
+   at PawLodge.UC_Settings.btnUbahPassword_Click(Object sender, EventArgs e) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 264
+2025-12-04 03:11:32 | SafeGetSettingString:NamaToko | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at PawLodge.UC_Settings.SafeGetSettingString(String key) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 333
+2025-12-04 03:11:46 | SafeGetSettingString:NamaToko | SettingsPropertyNotFoundException | The settings property 'NamaToko' was not found.
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at PawLodge.UC_Settings.SafeGetSettingString(String key) in D:\SM5\VISPRO\PawLodge_baru\PawLodge\UC_Settings.cs:line 333

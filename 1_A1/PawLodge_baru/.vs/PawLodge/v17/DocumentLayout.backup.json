@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SM5\\VISPRO\\PawLodge_baru\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|d:\\sm5\\vispro\\pawlodge_baru\\pawlodge\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_room.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_room.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_reservation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_reservation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|d:\\sm5\\vispro\\pawlodge_baru\\pawlodge\\uc_reservation.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_reservation.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|d:\\sm5\\vispro\\pawlodge_baru\\pawlodge\\uc_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|d:\\sm5\\vispro\\pawlodge_baru\\pawlodge\\uc_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PawLodge||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_transaction.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_transaction.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_customer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_customer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|D:\\SM5\\VISPRO\\PawLodge_baru\\pawlodge\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|d:\\sm5\\vispro\\pawlodge_baru\\pawlodge\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{BB8B2125-133C-4B15-B865-85C84AE7FD85}|PawLodge\\PawLodge.csproj|solutionrelative:pawlodge\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\FormMain.cs",
+              "RelativeDocumentMoniker": "PawLodge\\FormMain.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\FormMain.cs",
+              "RelativeToolTip": "PawLodge\\FormMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T21:22:46.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_Reservation.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Reservation.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Reservation.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Reservation.cs",
+              "RelativeToolTip": "PawLodge\\UC_Reservation.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:59:32.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_Reservation.cs [Design]",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Reservation.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Reservation.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Reservation.cs [Design]",
+              "RelativeToolTip": "PawLodge\\UC_Reservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:59:22.95Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_Room.cs [Design]",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Room.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Room.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Room.cs [Design]",
+              "RelativeToolTip": "PawLodge\\UC_Room.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:14:14.575Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_Room.Designer.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Room.Designer.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Room.Designer.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Room.Designer.cs",
+              "RelativeToolTip": "PawLodge\\UC_Room.Designer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwCgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:14:19.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_Room.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Room.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Room.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Room.cs",
+              "RelativeToolTip": "PawLodge\\UC_Room.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAcwDABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:28:25.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_Dashboard.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Dashboard.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Dashboard.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Dashboard.cs",
+              "RelativeToolTip": "PawLodge\\UC_Dashboard.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:18:52.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "PawLodge\\FormMain.Designer.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\FormMain.Designer.cs",
+              "RelativeToolTip": "PawLodge\\FormMain.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:28:20.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_Reservation.Designer.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Reservation.Designer.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Reservation.Designer.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Reservation.Designer.cs",
+              "RelativeToolTip": "PawLodge\\UC_Reservation.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:59:28.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_Reservation.resx",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Reservation.resx",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Reservation.resx",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Reservation.resx",
+              "RelativeToolTip": "PawLodge\\UC_Reservation.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-03T21:01:31.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Dashboard.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Dashboard.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Dashboard.cs [Design]",
+              "RelativeToolTip": "PawLodge\\UC_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:18:39.456Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UC_Settings.cs [Design]",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Settings.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Settings.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Settings.cs [Design]",
+              "RelativeToolTip": "PawLodge\\UC_Settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:27:50.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PawLodge",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\PawLodge.csproj",
+              "RelativeDocumentMoniker": "PawLodge\\PawLodge.csproj",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\PawLodge.csproj",
+              "RelativeToolTip": "PawLodge\\PawLodge.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T16:38:09.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_Dashboard.Designer.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Dashboard.Designer.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Dashboard.Designer.cs",
+              "RelativeToolTip": "PawLodge\\UC_Dashboard.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:18:44.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UC_Settings.Designer.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Settings.Designer.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Settings.Designer.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Settings.Designer.cs",
+              "RelativeToolTip": "PawLodge\\UC_Settings.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwPAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:24:50.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UC_Settings.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Settings.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Settings.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Settings.cs",
+              "RelativeToolTip": "PawLodge\\UC_Settings.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwPoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:34:02.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_Transaction.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Transaction.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Transaction.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Transaction.cs",
+              "RelativeToolTip": "PawLodge\\UC_Transaction.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAcwDsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:04:02.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UC_Transaction.cs [Design]",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Transaction.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Transaction.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Transaction.cs [Design]",
+              "RelativeToolTip": "PawLodge\\UC_Transaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:58:22.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_Transaction.Designer.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Transaction.Designer.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Transaction.Designer.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Transaction.Designer.cs",
+              "RelativeToolTip": "PawLodge\\UC_Transaction.Designer.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAQwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:58:25.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\FormMain.cs",
+              "RelativeDocumentMoniker": "PawLodge\\FormMain.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\FormMain.cs [Design]",
+              "RelativeToolTip": "PawLodge\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:59:03.23Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UC_Customer.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Customer.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Customer.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Customer.cs",
+              "RelativeToolTip": "PawLodge\\UC_Customer.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAQwOAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:44:19.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UC_Customer.cs [Design]",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Customer.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Customer.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Customer.cs [Design]",
+              "RelativeToolTip": "PawLodge\\UC_Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:44:03.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UC_Customer.Designer.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Customer.Designer.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_Customer.Designer.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_Customer.Designer.cs",
+              "RelativeToolTip": "PawLodge\\UC_Customer.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:43:47.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UC_login.cs",
+              "DocumentMoniker": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_login.cs",
+              "RelativeDocumentMoniker": "PawLodge\\UC_login.cs",
+              "ToolTip": "D:\\SM5\\VISPRO\\PawLodge_baru\\PawLodge\\UC_login.cs",
+              "RelativeToolTip": "PawLodge\\UC_login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:11:58.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
